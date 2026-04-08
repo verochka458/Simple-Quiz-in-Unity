@@ -18,3 +18,4 @@ The player progresses through levels while answering questions and receives a fi
 
 ![](https://github.com/verochka458/Simple-Quiz-in-Unity/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-27%20223835.png)
 
+![](https://github.com/verochka458/Simple-Quiz-in-Unity/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-27%20223336.png)
